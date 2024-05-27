@@ -30,4 +30,5 @@ To use this application:
 
 ## Example
 
-```html
+
+![alt text](<Screenshot 2024-05-27 152958.png>)
